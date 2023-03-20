@@ -4,7 +4,8 @@ The Cucumber Gradle Saucedemo repository is a fully-functional test automation f
 ## Requirements
 - Java JDK 8 or later
 - Gradle 5.0 or later
-- Chrome or Firefox web browser
+- Chrome, Edge or Firefox web browser
+
 ## Installation
 1. Clone the repository:
 ```
@@ -28,11 +29,13 @@ cd cucumber_gradle_saucedemo
 ```
 gradle test
 ```
-##Test Reports
+
+## Test Reports
 After running the tests, the HTML test report can be found at:
 ```
 /build/reports/tests/test/index.html
 ```
+
 ## Contributing
 Contributions are welcome! If you notice any issues or would like to suggest improvements, please feel free to open an issue or submit a pull request.
 
